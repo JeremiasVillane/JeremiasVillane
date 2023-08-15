@@ -21,10 +21,11 @@ src="https://img.shields.io/github/last-commit/JeremiasVillane/Trends_app_MVP_de
   <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img alt="JSONWebTokens" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
   <img alt="StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
@@ -78,14 +79,17 @@ Proyecto realizado para poner en practica:
 </details>
 
 - **Tecnologías utilizadas:** JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize, CSS puro.
-- **Enlace:** [Demo en Vivo](Enlace) | [Código Fuente](https://github.com/JeremiasVillane/rick_and_morty)
+- **Enlace:** [Código Fuente](https://github.com/JeremiasVillane/rick_and_morty)
 
 ## 🤝 ¡Hablemos!
 
-¡Me encantaría conectarme contigo! Ya sea para discutir colaboraciones, intercambiar ideas o simplemente charlar sobre desarrollo web, no dudes en contactarme enviando un email a <a href="mailto:vil.jeremias@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a> o visitando mi <a href="https://www.linkedin.com/in/jeremias-villane">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>.
+¡Me encantaría conectarme contigo! Ya sea para discutir colaboraciones, intercambiar ideas o simplemente charlar sobre desarrollo web, no dudes en contactarme:
+</br>
+</br>
+<a href="mailto:vil.jeremias@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jeremias-villane">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ¡Gracias por visitar y espero que encuentres algo interesante y útil aquí! 🌟
