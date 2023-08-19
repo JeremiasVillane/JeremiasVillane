@@ -1,7 +1,7 @@
 <img alt="banner" src="https://i.postimg.cc/q73cQRpj/gh-banner.gif" />
 
 <p align="center"> <img
-src="https://img.shields.io/github/last-commit/JeremiasVillane/github-readme-stats" alt="jeremiasvillane" /> <img src=https://img.shields.io/github/contributors/JeremiasVillane/Trends_app_MVP_devs_JV /> <img src=https://img.shields.io/github/issues-pr-closed/JeremiasVillane/Trends_app_MVP_devs_JV
+src="https://img.shields.io/github/last-commit/JeremiasVillane/Trends_app_MVP_devs_JV/integration" alt="jeremiasvillane" /> <img src=https://img.shields.io/github/contributors/JeremiasVillane/Trends_app_MVP_devs_JV /> <img src=https://img.shields.io/github/issues-pr-closed/JeremiasVillane/Trends_app_MVP_devs_JV
  /> <img src=https://img.shields.io/github/languages/top/JeremiasVillane/Trends_app_MVP_devs_JV
  />
  </p>
