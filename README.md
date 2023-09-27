@@ -1,10 +1,5 @@
 <img alt="banner" src="https://i.postimg.cc/q73cQRpj/gh-banner.gif" />
 
-<p align="center"> <img
-src="https://img.shields.io/github/last-commit/JeremiasVillane/bloghub/main" alt="jeremiasvillane" /> <img src=https://img.shields.io/github/languages/top/JeremiasVillane/Trends_app_MVP_devs_JV
- />
- </p>
-
 # ¡Hola, mundo! 👋
 
 ¡Bienvenido a mi rincón en GitHub! Soy **Jeremías** de Córdoba, Argentina; un apasionado desarrollador web junior que está explorando el emocionante mundo de la programación. Aquí encontrarás los proyectos que iré desarrolando en mi viaje de aprendizaje.
