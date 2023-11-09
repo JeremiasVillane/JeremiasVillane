@@ -58,7 +58,7 @@ Se implementó:
 </details>
 
 - **Tecnologías utilizadas:** JavaScript, React, Vite, Redux, Node.js, Express, PostgreSQL, Sequelize y Styled Components.
-- **Enlace:** [Demo en Vivo](https://food-world-weld.vercel.app/) | [Código Fuente](https://github.com/JeremiasVillane/PI-Food-JV)
+- **Enlace:** [Demo en Vivo](https://snppr.vercel.app/04lEi7ES4) | [Código Fuente](https://snppr.vercel.app/3lOH6npsF)
 
 ### ✔️ Rick and Morty App
 
