@@ -8,7 +8,7 @@
 
 Soy un entusiasta desarrollador web en constante búsqueda de conocimiento y soluciones creativas. Mi aventura en el mundo del desarrollo comenzó cuando descubrí el poder de la tecnología para cambiar la forma en que vivimos y trabajamos. Desde entonces, he estado inmerso en el aprendizaje de nuevas tecnologías.
 
-Mi experiencia con **JavaScript** me ha permitido crear aplicaciones web interactivas y dinámicas, utilizando **React** y **Redux** como herramientas fundamentales. Además, he trabajado con **Node.js** para desarrollar servicios backend robustos y escalables, gestionando bases de datos **SQL**.
+Mi experiencia con **JavaScript/TypeScript** me ha permitido crear aplicaciones web interactivas y dinámicas, utilizando **React** y **Next** como herramientas fundamentales. Además, he trabajado con **Node.js** para desarrollar servicios backend robustos y escalables, gestionando bases de datos **SQL** y **noSQL**.
 
 
 ## 🔬 Habilidades
