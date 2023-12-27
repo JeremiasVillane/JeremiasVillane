@@ -41,47 +41,6 @@ Mi experiencia con **JavaScript/TypeScript** me ha permitido crear aplicaciones 
   <img height=160 align="center" src="https://github-readme-stats-jv.vercel.app/api/top-langs/?username=jeremiasvillane&size_weight=0.5&count_weight=0.5&theme=prussian&layout=compact&card_width=120&locale=es" />
 </a>
   </div>
-  
-## 💻 Proyectos Destacados
-
-### ✔️ Food World
-
-Single Page Application de temática culinaria creada para el bootcamp **SoyHenry** utilizando la API de Spoonacular. 
-
-Se implementó: 
-- Búsqueda avanzada por filtros combinados
-- Ordenamientos ascendente/descendente según diferentes criterios
-- Paginación
-- Posibilidad de crear/editar nuevas recetas
-- Manejo de los errores a través de un modal personalizado
-
-<details>
-<summary>:eyes: Vista previa</summary>
-<img src=https://i.postimg.cc/Wb2ZrzBM/Food-World.png width=60% />
-</br>
-<img src=https://i.postimg.cc/435kY8Vv/Food-World2.png width=60% />
-</details>
-
-- **Tecnologías utilizadas:** JavaScript, React, Vite, Redux, Node.js, Express, PostgreSQL, Sequelize y Styled Components.
-- **Enlace:** [Demo en Vivo](https://snppr.vercel.app/04lEi7ES4) | [Código Fuente](https://snppr.vercel.app/3lOH6npsF)
-
-### ✔️ Rick and Morty App
-
-Single Page Application creada utilizando las tecnologías de React/Redux, Node/Express, y PostgreSQL/Sequelize. Utiliza la API de la serie animada **Rick and Morty**. 
-
-Proyecto realizado para poner en practica:
-- El uso de estados locales y globales
-- El uso de APIs externas
-- El manejo de una base de datos para guardar información independiente de la API
-- La creación de una propia API REST básica
-
-<details>
-<summary>:eyes: Vista previa</summary>
-<img src=https://i.postimg.cc/65Wy1S5R/R-M.png width=60% />
-</details>
-
-- **Tecnologías utilizadas:** JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize, CSS puro.
-- **Enlace:** [Código Fuente](https://snppr.vercel.app/Lv694ZjJZ)
 
 ## 🤝 ¡Hablemos!
 
