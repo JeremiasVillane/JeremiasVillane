@@ -1,17 +1,16 @@
 <img alt="banner" src="https://i.postimg.cc/q73cQRpj/gh-banner.gif" />
+<h4 align="right"><strong>English</strong> | <a href="./README_es.md">Español</a></h4>
 
-# ¡Hola, mundo! 👋
+## Hello, world! 👋
+Welcome to my corner on GitHub! I'm Jeremy from Cordoba, Argentina; a passionate junior web developer who is exploring the exciting world of programming. Here you will find the projects I will be developing in my learning journey.
 
-¡Bienvenido a mi rincón en GitHub! Soy **Jeremías** de Córdoba, Argentina; un apasionado desarrollador web junior que está explorando el emocionante mundo de la programación. Aquí encontrarás los proyectos que iré desarrolando en mi viaje de aprendizaje.
+## 🚀 About me
+I am an enthusiastic web developer in constant search of knowledge and creative solutions. My adventure in the development world began when I discovered the power of technology to change the way we live and work. Since then, I have been immersed in learning new technologies.
 
-## 🚀 Sobre mí
-
-Soy un entusiasta desarrollador web en constante búsqueda de conocimiento y soluciones creativas. Mi aventura en el mundo del desarrollo comenzó cuando descubrí el poder de la tecnología para cambiar la forma en que vivimos y trabajamos. Desde entonces, he estado inmerso en el aprendizaje de nuevas tecnologías.
-
-Mi experiencia con **JavaScript/TypeScript** me ha permitido crear aplicaciones web interactivas y dinámicas, utilizando **React** y **Next** como herramientas fundamentales. Además, he trabajado con **Node.js** para desarrollar servicios backend robustos y escalables, gestionando bases de datos **SQL** y **noSQL**.
+My experience with JavaScript/TypeScript has allowed me to create interactive and dynamic web applications, using React and Next as fundamental tools. In addition, I have worked with Node.js to develop robust and scalable backend services, managing SQL and noSQL databases.
 
 
-## 🔬 Habilidades
+## 🔬 Skills
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -32,19 +31,19 @@ Mi experiencia con **JavaScript/TypeScript** me ha permitido crear aplicaciones 
   <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-## 📊 Estadísticas
+## 📊 Statistics
 <div>
 <a href="https://github.com/JeremiasVillane/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats-jv.vercel.app/api?username=jeremiasvillane&show_icons=true&theme=prussian&rank_icon=github&card_width=120&locale=es&hide=stars,contribs" />
+  <img height=160 align="center" src="https://github-readme-stats-jv.vercel.app/api?username=jeremiasvillane&show_icons=true&theme=prussian&rank_icon=github&card_width=120&hide=stars,contribs" />
 </a>
 <a href="https://github.com/JeremiasVillane/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats-jv.vercel.app/api/top-langs/?username=jeremiasvillane&size_weight=0.5&count_weight=0.5&theme=prussian&layout=compact&card_width=120&locale=es" />
+  <img height=160 align="center" src="https://github-readme-stats-jv.vercel.app/api/top-langs/?username=jeremiasvillane&size_weight=0.5&count_weight=0.5&theme=prussian&layout=compact&card_width=120" />
 </a>
   </div>
 
-## 🤝 ¡Hablemos!
+## 🤝 Let's talk!
 
-¡Me encantaría conectarme contigo! Ya sea para discutir colaboraciones, intercambiar ideas o simplemente charlar sobre desarrollo web, no dudes en contactarme:
+I'd love to connect with you! Whether it's to discuss collaborations, exchange ideas or just chat about web development, feel free to contact me:
 </br>
 </br>
 <a href="mailto:vil.jeremias@gmail.com">
@@ -53,4 +52,4 @@ Mi experiencia con **JavaScript/TypeScript** me ha permitido crear aplicaciones 
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-¡Gracias por visitar y espero que encuentres algo interesante y útil aquí! 🌟
+Thanks for visiting and I hope you find something interesting and useful here! 🌟
