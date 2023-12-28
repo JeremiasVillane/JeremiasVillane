@@ -2,7 +2,7 @@
 <h4 align="right"><strong>English</strong> | <a href="./README_es.md">Español</a></h4>
 
 ## Hello, world! 👋
-Welcome to my corner on GitHub! I'm Jeremy from Cordoba, Argentina; a passionate junior web developer who is exploring the exciting world of programming. Here you will find the projects I will be developing in my learning journey.
+Welcome to my corner on GitHub! I'm Jeremias from Cordoba, Argentina; a passionate web developer who is exploring the exciting world of programming. Here you will find the projects I will be developing in my learning journey.
 
 ## 🚀 About me
 I am an enthusiastic web developer in constant search of knowledge and creative solutions. My adventure in the development world began when I discovered the power of technology to change the way we live and work. Since then, I have been immersed in learning new technologies.
