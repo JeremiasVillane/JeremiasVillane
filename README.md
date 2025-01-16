@@ -31,16 +31,6 @@ My experience with JavaScript/TypeScript has allowed me to create interactive an
   <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-## 📊 Statistics
-<div>
-<a href="https://github.com/JeremiasVillane/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats-jv.vercel.app/api?username=jeremiasvillane&show_icons=true&theme=prussian&rank_icon=github&card_width=120&hide=stars,contribs" />
-</a>
-<a href="https://github.com/JeremiasVillane/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats-jv.vercel.app/api/top-langs/?username=jeremiasvillane&size_weight=0.5&count_weight=0.5&theme=prussian&layout=compact&card_width=120" />
-</a>
-  </div>
-
 ## 🤝 Let's talk!
 
 I'd love to connect with you! Whether it's to discuss collaborations, exchange ideas or just chat about web development, feel free to contact me:
